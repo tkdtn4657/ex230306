@@ -1,1 +1,8 @@
-# ex230306
+# ex23030adfoisdwqe
+@re
+:wq
+:wq!
+
+
+
+
